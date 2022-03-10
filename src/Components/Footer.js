@@ -1,4 +1,4 @@
-import { Box, Container, Divider, Typography } from "@mui/material";
+import { Box, Container, Typography } from "@mui/material";
 import React from "react";
 import CopyrightIcon from "@mui/icons-material/Copyright";
 
@@ -7,10 +7,9 @@ const Footer = () => {
     <>
       <Box
         sx={{
-          py:2
+          py: 2,
         }}
       >
-
         <Container
           bgcolor="primary"
           sx={{

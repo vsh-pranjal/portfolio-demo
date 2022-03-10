@@ -6,7 +6,6 @@ import Work from "./Components/Work";
 import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
 import { Divider } from "@mui/material";
-import LSwitch from "./Components/LSwitch";
 
 function App() {
   return (
